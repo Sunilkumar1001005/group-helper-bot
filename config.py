@@ -1,0 +1,2 @@
+OWNER_ID = 5855151459
+BOT_TOKEN = "8867266730:AAHO3btWVZDfmIdh2Pt6Aj2tEKCr58OTkzw"  # Render env var se aayega
